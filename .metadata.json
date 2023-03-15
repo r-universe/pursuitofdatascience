@@ -1,6 +1,14 @@
 [
   {
+    "package": "ggchangepoint",
+    "oncran": true
+  },
+  {
     "package": "ggDoubleHeat",
+    "oncran": true
+  },
+  {
+    "package": "tidyEmoji",
     "oncran": true
   }
 ]
