@@ -2,12 +2,18 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "countryatlas"]
+	path = countryatlas
+	url = https://github.com/pursuitofdatascience/countryatlas
 [submodule "ggDoubleHeat"]
 	path = ggDoubleHeat
 	url = https://github.com/pursuitofdatascience/ggdoubleheat
 [submodule "ggchangepoint"]
 	path = ggchangepoint
 	url = https://github.com/pursuitofdatascience/ggchangepoint
+[submodule "ggtaichi"]
+	path = ggtaichi
+	url = https://github.com/pursuitofdatascience/ggtaichi
 [submodule "tidyEmoji"]
 	path = tidyEmoji
 	url = https://github.com/pursuitofdatascience/tidyemoji
