@@ -17,3 +17,6 @@
 [submodule "tidyEmoji"]
 	path = tidyEmoji
 	url = https://github.com/pursuitofdatascience/tidyemoji
+[submodule "tidycjk"]
+	path = tidycjk
+	url = https://github.com/pursuitofdatascience/tidycjk
