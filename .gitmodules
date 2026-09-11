@@ -14,6 +14,9 @@
 [submodule "ggtaichi"]
 	path = ggtaichi
 	url = https://github.com/pursuitofdatascience/ggtaichi
+[submodule "icebergr"]
+	path = icebergr
+	url = https://github.com/pursuitofdatascience/icebergr
 [submodule "tidyEmoji"]
 	path = tidyEmoji
 	url = https://github.com/pursuitofdatascience/tidyemoji
